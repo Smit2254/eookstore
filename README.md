@@ -20,8 +20,7 @@ pass : Bu123
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/tushar-2223/Tatvasoft_internship.git
-cd Tatvasoft_internship
+gh repo clone Smit2254/eBookstore
 ```
 
 Make it your own:
